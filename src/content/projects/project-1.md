@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Project title
+title: Portfolio
 img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
+link: https://github.com/YashSharma2129
 tags: ['React', 'CSS', 'Typescript']
 ---
